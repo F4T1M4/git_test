@@ -1,0 +1,3 @@
+Hello world!
+This is my first proper attempt to use Git!
+Thank you :D
